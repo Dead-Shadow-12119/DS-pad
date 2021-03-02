@@ -1,0 +1,24 @@
+h2{
+	text-align:center;
+	}
+body{
+	background-color: #faffa3;
+}
+#editor{
+    width: 80%;
+    height: 400px;
+    display: block;
+    border: 2px solid lightblack;
+    margin-top: 4px;
+    border-radius: 15px;
+    background-color: white;
+}
+#img{
+	height:20px;
+	width:20px;
+	}
+#rimg {
+	height:20px;
+	width:20px;
+	transform: rotate(180deg);
+	}
