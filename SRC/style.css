@@ -2,11 +2,13 @@ h2{
 	text-align:center;
 	}
 body{
-	background-color: #faffa3;
+	/*background-color: #faffa3; */
+	background-image: url("img/bg.jpeg");
+	
 }
 #editor{
     width: 80%;
-    height: 400px;
+    height: 80%;
     display: block;
     border: 2px solid lightblack;
     margin-top: 4px;
