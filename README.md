@@ -3,4 +3,4 @@
 
 DS-pad is a simple web based advance text editor like notepad .
 
-![DS-pad] (https://img.shields.io/badge/DS--pad-Made%20for%20web-brightgreen)
+![DS-pad batch](https://img.shields.io/badge/DS--pad-Made%20for%20web-brightgreen)
