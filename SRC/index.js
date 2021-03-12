@@ -36,13 +36,7 @@ btnSuperscript.addEventListener("mousedown", function(event){
     event.preventDefault();
      
 });
-/*
-btnRemoveFormat.addEventListener("mousedown", function(event){
-     
-    document.execCommand("removeFormat");
-    event.preventDefault();
-     
-});*/
+
 btnSubscript.addEventListener("mousedown", function(event){
      
     document.execCommand("subscript");
