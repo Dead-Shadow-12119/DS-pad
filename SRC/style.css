@@ -2,9 +2,11 @@ h2{
 	text-align:center;
 	}
 body{
-	/*background-color: #faffa3; */
-	background-image: url("img/bg.jpeg");
-	
+         background-image: url("img/bg.jpeg");
+	 background-size: cover;
+         background-repeat: no-repeat;
+         background-attachment: fixed;
+         background-position: center;
 }
 #editor{
     width: 80%;
